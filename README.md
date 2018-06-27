@@ -6,7 +6,7 @@
 1. Open index.html file
 2. Click on one of the list in the navigation menu. Or click on any markers.
 3. The information window and the location in the map will show.
-4. Filter places by type in the search field with their name.
+4. Filter places by typing location in the search field.
 
 ## Requirements
 
