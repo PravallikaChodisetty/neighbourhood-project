@@ -33,5 +33,4 @@
 
 1. I referred w3 schools site. 
 2. I got inspired by the works of 
-    cardvark 
-    Davigon
+    cardvark,Davigon
