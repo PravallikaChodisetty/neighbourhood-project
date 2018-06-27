@@ -16,11 +16,11 @@
 
 ## Optional Steps
 
- # Creating Google map api key
+ # Creating Google maps api key
   
   1. Goto google dev console.
   2. Signup or login.
-  3. Goto credentials enable api s associated with google maps.
+  3. Goto credentials enable api's associated with google maps.
   4. Now get the api key under credentials option.
  
  # Getting Foursquare client_id
@@ -33,4 +33,4 @@
 
 1. I referred w3 schools site. 
 2. I got inspired by the works of 
-    cardvark,Davigon
+    cardvark, Davigon
